@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YordanPat
+- 👋 Hi, I’m @Yordan
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Google Advanced Data analytics
 - 💞️ I’m looking to collaborate on Machine Learning model for trading CFDs
