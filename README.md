@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yordan
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Google Advanced Data analytics
+- 🌱 I’m currently learning Neural Networks for Algorithmic Trading
 - 💞️ I’m looking to collaborate on Machine Learning model for trading CFDs
 - 📫 How to reach me y.patronski1819@gmail.com
 - 😄 Pronouns: ...
